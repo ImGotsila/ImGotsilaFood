@@ -26,7 +26,7 @@ class _SignInState extends State<SignIn> {
               children: <Widget>[
                 MyStyle().showLogo(),
                 MyStyle().mySizeBox(),
-                MyStyle().showTitle('ImGotsila Food'),
+                MyStyle().showTitle('Got Food'),
                 MyStyle().mySizeBox(),
                 userForm(),
                 MyStyle().mySizeBox(),
